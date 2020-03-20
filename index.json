@@ -1,0 +1,10 @@
+{
+    "list": [
+        {
+            "title": "games",
+            "file": "https://raw.githubusercontent.com/scriptik/cpiwarehouse/master/games/index.json",
+            "type": "dir"
+        }
+    ]
+}
+

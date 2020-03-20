@@ -1,0 +1,10 @@
+{
+    "list": [
+        {
+            "type": "launcher",
+            "title": "minesweeper",
+            "file": "https://raw.githubusercontent.com/scriptik/cpiwarehouse/master/games/minesweeper/file/minesweeper.tar.gz",
+            "shots": "https://raw.githubusercontent.com/scriptik/cpiwarehouse/master/games/minesweeper/shots/minesweeper.png"
+        }
+    ]
+}
