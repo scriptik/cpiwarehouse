@@ -9,8 +9,8 @@
         {
             "type": "launcher",
             "title": "rps",
-            "file": "https://raw.githubusercontent.com/scriptik/cpiwarehouse/master/games/minesweeper/file/rps.tar.gz",
-            "shots": "https://raw.githubusercontent.com/scriptik/cpiwarehouse/master/games/minesweeper/shots/rps.png"
+            "file": "https://raw.githubusercontent.com/scriptik/cpiwarehouse/master/games/rps/file/rps.tar.gz",
+            "shots": "https://raw.githubusercontent.com/scriptik/cpiwarehouse/master/games/rps/shots/rps.png"
         }
     ]
 }
