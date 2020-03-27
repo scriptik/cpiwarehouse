@@ -5,6 +5,12 @@
             "title": "minesweeper",
             "file": "https://raw.githubusercontent.com/scriptik/cpiwarehouse/master/games/minesweeper/file/minesweeper.tar.gz",
             "shots": "https://raw.githubusercontent.com/scriptik/cpiwarehouse/master/games/minesweeper/shots/minesweeper.png"
+        },
+        {
+            "type": "launcher",
+            "title": "rps",
+            "file": "https://raw.githubusercontent.com/scriptik/cpiwarehouse/master/games/minesweeper/file/rps.tar.gz",
+            "shots": "https://raw.githubusercontent.com/scriptik/cpiwarehouse/master/games/minesweeper/shots/rps.png"
         }
     ]
 }
