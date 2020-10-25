@@ -11,6 +11,12 @@
             "title": "rps",
             "file": "https://raw.githubusercontent.com/scriptik/cpiwarehouse/master/games/rps/file/rps.tar.gz",
             "shots": "https://raw.githubusercontent.com/scriptik/cpiwarehouse/master/games/rps/shots/rps.png"
+        },
+        {
+            "type": "launcher",
+            "title": "mastermind",
+            "file": "https://raw.githubusercontent.com/scriptik/cpiwarehouse/master/games/mastermind/file/mastermind.tar.gz",
+            "shots": "https://raw.githubusercontent.com/scriptik/cpiwarehouse/master/games/mastermind/shots/mastermind.png"
         }
     ]
 }
